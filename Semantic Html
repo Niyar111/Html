@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic HTML</title>
+</head>
+<body>
+    <h1> Web page </h1>
+    <p> This is a simple web page. </p>
+    <footer> &copy; 2025 My Website </footer>
+    <title>
+        Web page
+    </title>
+    <header class="header">
+        <h1>Web page</h1>
+        <div class="footer"> &copy; 2025 My Website </div>
+    </header>
+
+    <header>
+        <hgroup>
+            <h1>learnify</h1>
+            <h2>AI learning website</h2>
+            <h3>Empowering your learning journey</h3>
+        </hgroup>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#section1">Home</a></li>
+            <li><a href="#section2">About</a></li>
+            <li><a href="#section3">Contact</a></li>
+        </ul>
+    </nav>
+    <article>
+        <h2>Welcome to learnify</h2>
+        <p>Your one-stop solution for AI-powered learning resources.</p>
+        <p><time datetime="2025-08-15"></time>Aug 1, 2025</time></p>
+    </article>
+    <footer>
+        <address>
+            <p>Contact us at:</p>
+            <p>Email: <a href="mailto:info@learnify.com">info@learnify.com</a></p>
+            <p>Phone: <a href="tel:+1234567890">+1 (234) 567-890</a></p>
+        </address>
+    </footer>
+</body>
+</html>
