@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORMS</title>
+</head>
+<body>
+    <form action="#" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" required>
+
+        <input type="submit" value="Submit">
+    </form>
+    <h1>Login form</h1>
+    <form>
+        <label for="email"></label>
+        email:
+        <input type="Text" name="gamil">
+        <label for="password"></label>
+        password:
+        <input type="password" name="password">
+    
+        <label for="Name"></label>
+        name:
+        <input type ="text" name="Name">
+        <input type="submit" value="Login">
+    </form>
+
+
+    <form>
+        <h1>Facebook Login Form</h1>
+        <label for="email"></label>
+        email:
+        <input type="text" name="email">
+        <label for="Name"></label>
+        <nav> </nav>
+
+        Name:
+        <input type="text" name="Name">
+        <nav></nav>
+        <button type="submit">Login</button>
+
+    </form>
+    <form>
+        <h1>Learning Form</h1>
+        <label for="Email"></label>
+        emial:
+        <input type="email" name="Email">
+        <button type="submit">Login</button>
+        <label for="Name"></label>
+        Name:
+        <input type ="Name" name ="Name">
+
+    
+    
+
+        <h1>Games form</h1>
+        <label for="Games"></label>
+        <select name="Games" id=""></select>
+        <option value="Cricket">Cricket</option>
+        <option value="Football">Football</option>
+        <option value="Basketball">Basketball</option>
+        <option value="Tennis">Tennis</option>
+    </select>
+
+        <label for="Months"></label>
+        <select name="Months" id=""></select>
+            <option value="January">January</option>
+            <option value="February">February</option>
+            <option value="March">March</option>
+            <option value="April">April</option>
+            <option value="May">May</option>
+            <option value="June">June</option>
+            <option value="July">July</option>
+            <option value="August">August</option>
+            <option value="September">September</option>
+            <option value="October">October</option>
+            <option value="November">November</option>
+            <option value="December">December</option>
+        </select>
+        <form>
+            <h1>My form</h1>
+            <label for="Months"></label>
+            months:
+            <input type="text" name="Months">
+            <label for="Games">
+                <select name="games" id="">
+                    <option value="Pubg">Pubg</option>
+                    <option value="COD">COD</option>
+                </select>
+            </label>
+            <label for="Months">
+                
+
+                <input type="month" name="Months">
+            </label>
+
+
+        </form>
+    </form>
+</body>
+</html>
