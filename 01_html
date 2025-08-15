@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Headings</title>
+</head>
+<body>
+    <h>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus temporibus dolore deserunt eos exercitationem? Nisi, quisquam delectus! Doloremque quis fugit id iusto quas perspiciatis, illum sit libero illo quidem nisi.</h>
+    <h1>
+        Lorem ipsum dolor sit amet.
+
+    </h1>
+    <h2>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus illum nihil ab veritatis dolorem aperiam quis fugit nulla ducimus. Maiores, laborum necessitatibus fugiat, molestias voluptates corporis ad obcaecati quas quos inventore, quisquam autem nihil? Veritatis iusto quos corporis perspiciatis magnam fugiat exercitationem beatae facere dolores, voluptatum excepturi quisquam, quasi libero.</h2>
+    <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h3>
+    <img src="./I CARD.png" alt="">
+    <a href="https://chaicode.com"> go to this website</a>
+
+    <div>
+        <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.</h1>
+        <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.</h1>
+        <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.</h1>
+    </div>
+    <a href="index.html"> go to my index file </a>
+    <a href="01_.html"> go to my 01 file </a>
+    <a href="tel:7099686752"> Call me </a>
+
+</body>
+</html>
